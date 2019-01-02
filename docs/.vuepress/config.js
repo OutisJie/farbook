@@ -7,10 +7,20 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: '主页', link: '/'},
-      { text: '学习', link: '/learn'},
-      { text: '手记', link: '/handnote'},
-      { text: '关于' , link: '/aboutme'},
+      { text: '学习', link: '/learn/'},
+      { text: '手记', link: '/handnote/'},
+      { text: '关于' , link: '/about.md'},
       { text: 'GitHub', link: 'https://github.com/OutisJie/farbook'}
-    ]
+    ],
+    sidebar: {
+      '/learn/': [
+        '',
+        'fe'
+      ],
+      '/handnote/': [
+        '',
+        'hangzhou'
+      ]
+    }
   }
 }
