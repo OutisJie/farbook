@@ -14,6 +14,7 @@ module.exports = {
       { text: '关于', link: '/about/' },
       { text: 'GitHub', link: 'https://github.com/OutisJie/farbook' }
     ],
+    sidebarDepth: 2,
     sidebar: {
       '/learn/': [
         '',
