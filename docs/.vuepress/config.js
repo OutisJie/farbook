@@ -18,7 +18,8 @@ module.exports = {
     sidebar: {
       '/learn/': [
         '',
-        'fe'
+        'fe',
+        'css'
       ],
       '/handnote/': [
         '',
