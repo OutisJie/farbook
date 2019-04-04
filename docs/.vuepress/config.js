@@ -19,7 +19,9 @@ module.exports = {
       '/learn/': [
         '',
         'fe',
-        'css'
+        'css',
+        'browser',
+        'os'
       ],
       '/handnote/': [
         '',

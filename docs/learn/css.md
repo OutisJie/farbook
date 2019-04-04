@@ -62,5 +62,6 @@ css的话，很多东西就跟捡牛粪一样，你一下子看太多根本看�
 ## CSSChallenge-day2
 
 ![img](./img/day2.gif)
-这个有点复杂，之前看代码吧：[CSSChallenge-day2](https://github.com/OutisJie/InternShip/tree/master/CSSChallenge-day2)
+
+这个有点复杂，直接看代码吧：[CSSChallenge-day2](https://github.com/OutisJie/InternShip/tree/master/CSSChallenge-day2)
 
