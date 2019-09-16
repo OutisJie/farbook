@@ -21,7 +21,8 @@ module.exports = {
         'fe',
         'css',
         'browser',
-        'os'
+        'os',
+        'alg'
       ],
       '/handnote/': [
         '',
