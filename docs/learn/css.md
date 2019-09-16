@@ -65,3 +65,30 @@ css的话，很多东西就跟捡牛粪一样，你一下子看太多根本看�
 
 这个有点复杂，直接看代码吧：[CSSChallenge-day2](https://github.com/OutisJie/InternShip/tree/master/CSSChallenge-day2)
 
+## CssChallenge-day3
+
+![img](./img/css-day3.gif)
+
+## CssChallenge-day4
+
+![img](./img/css-day4.gif)
+
+## CssChallenge-day5
+
+![img](./img/css-day5.gif)
+
+## CssChallenge-day6
+
+![img](./img/css-day6.gif)
+
+## CssChallenge-day7
+
+![img](./img/css-day7.gif)
+
+## CssChallenge-day8
+
+![img](./img/css-day8.gif)
+
+## CssChallenge-day9
+
+![img](./img/css-day9.gif)
