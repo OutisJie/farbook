@@ -77,7 +77,7 @@ B 站刷到的探店，看到视频里店铺的装修风格非常喜欢，就收
 
 | 图一                        | 图二                                     |
 | :-------------------------- | :--------------------------------------- |
-| ![img](/images/pepper.jpg) | ![img](/images/little_dragon_shrimp.jpg) |
+| ![img](./images/pepper.jpg) | ![img](./images/little_dragon_shrimp.jpg) |
 
 <!-- ### 上海大剧院
 
