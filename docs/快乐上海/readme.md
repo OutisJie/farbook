@@ -30,6 +30,7 @@ oh sh*t，看了下简介，居然是一家正经店铺，这不是封面欺诈�
 - **松饼🍪、牛肉丸(icon not found)**：那句话怎么说的来着，名字越简单，越好吃。
 
 ![img](./images/pd.jpg#w80)
+<img src="./images/pd.jpg" width="400px" />
 
 ### 生活如沸，顺德水牛奶火锅
 
