@@ -12,7 +12,9 @@
 
 快看我发现了什么！欸嘿，欸嘿嘿 🤩🥳🥰
 
-![img](./images/heart_break_boy.jpg#w80)
+<!-- ![img](./images/heart_break_boy.jpg#w80) -->
+
+<img src="./images/heart_break_boy.jpg" width="80%" />
 
 oh sh*t，看了下简介，居然是一家正经店铺，这不是封面欺诈吗！
 
@@ -29,7 +31,7 @@ oh sh*t，看了下简介，居然是一家正经店铺，这不是封面欺诈�
 - **🍹伯爵茶**：不能喝酒去小孩子那桌！i
 - **松饼🍪、牛肉丸(icon not found)**：那句话怎么说的来着，名字越简单，越好吃。
 
-![img](./images/pd.jpg#w80)
+<!-- ![img](./images/pd.jpg#w80) -->
 
 <img src="./images/pd.jpg" width="80%" />
 
@@ -41,7 +43,10 @@ oh sh*t，看了下简介，居然是一家正经店铺，这不是封面欺诈�
 - **红糖糍粑**：想吃，馋了
 - **芒果牛奶雪花冰**：不知道，看腻了，小电视冰块我不吃
 
-![img](./images/milk.jpg#w80)
+<!-- ![img](./images/milk.jpg#w80) -->
+
+<img src="./images/milk.jpg" width="80%" />
+
 
 ### 开心麻花
 
@@ -49,7 +54,10 @@ oh sh*t，看了下简介，居然是一家正经店铺，这不是封面欺诈�
 
 **疯狂理发店**、**赝品拍卖师**：开心麻花真的挺好看的，不管是电影还是剧场，开心就完事了。
 
-![img](./images/hemp_flowers.jpg#w80)
+<!-- ![img](./images/hemp_flowers.jpg#w80) -->
+
+<img src="./images/hemp_flowers.jpg" width="80%" />
+
 
 ## 黄浦-人广 🐱‍👓
 
@@ -59,7 +67,10 @@ oh sh*t，看了下简介，居然是一家正经店铺，这不是封面欺诈�
 
 “新鲜的面包放在桌上，灵魂将会穿梭如风，而我们的忧愁将被打扫干净”
 
-![img](./images/gluglu.jpg#w80)
+<!-- ![img](./images/gluglu.jpg#w80) -->
+
+<img src="./images/gluglu.jpg" width="80%" />
+
 
 ### NOFONO COFFEE
 
@@ -67,8 +78,10 @@ oh sh*t，看了下简介，居然是一家正经店铺，这不是封面欺诈�
 
 B 站刷到的探店，看到视频里店铺的装修风格非常喜欢，就收藏了。至于咖啡好不好喝，我也没喝过，让我几乎只喝拿铁的选手去看看他们家的拿铁~。
 
-![img](./images/nofono.jpg#w50)
- ![img](./images/nofono_1.jpg#w50)
+<!-- ![img](./images/nofono.jpg#w50)
+ ![img](./images/nofono_1.jpg#w50) -->
+
+<img src="./images/nofono.jpg" width="80%" />
 
 ### 麻都·成都菜（人民广场店）
 
@@ -105,7 +118,10 @@ B 站刷到的探店，看到视频里店铺的装修风格非常喜欢，就收
 
 **我，堂吉诃德**：“出发，桑丘·潘萨，我们一起去救杜尔西内亚公主”。档期 6.16-6.18，480 一张
 
-![img](./images/knight.jpg#w80)
+<!-- ![img](./images/knight.jpg#w80) -->
+
+<img src="./images/knight.jpg" width="80%" />
+
 
 ### 梵高星空艺术馆
 
@@ -115,7 +131,10 @@ B 站刷到的探店，看到视频里店铺的装修风格非常喜欢，就收
 
 来感受一下梵高的艺术~
 
-![img](./images/fangao.jpg#w80)
+<!-- ![img](./images/fangao.jpg#w80) -->
+
+<img src="./images/fangao.jpg" width="80%" />
+
 
 ## 浦东 🐱‍🏍
 
@@ -125,7 +144,10 @@ B 站刷到的探店，看到视频里店铺的装修风格非常喜欢，就收
 
 差不多一百多一个人，保龄球、桌球、飞镖、射箭、舞力全开，感觉会很好玩的样子
 
-![img](./images/PK.jpg#w80)
+<!-- ![img](./images/PK.jpg#w80) -->
+
+<img src="./images/PK.jpg" width="80%" />
+
 
 ### 羽毛球 o((>ω< ))o
 
